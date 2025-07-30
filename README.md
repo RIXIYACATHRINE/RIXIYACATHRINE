@@ -87,6 +87,9 @@ Here are some ideas to get you started:
 
 ---
 
+
 ## 🔁 My Coding Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=RIXIYACATHRINE&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RIXIYACATHRINE&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 
