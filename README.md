@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ### 🔁 My Coding Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIXIYACATHRINE&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/RIXIYACATHRINE)
+[![GitHub Streak]((https://github-readme-streak-stats.herokuapp.com/?user=RIXIYACATHRINE))](https://github.com/RIXIYACATHRINE)
 
 
 
