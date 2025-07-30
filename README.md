@@ -57,3 +57,36 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" />
 </p>
+
+
+## 📌 Featured Projects
+
+### 🍽️ [Foodie_App](https://github.com/JerishRaj/Foodie_App)
+> A full-stack Java-based online food delivery app with multi-role support:
+> 👤 Customer, 🧑‍🍳 Restaurant Admin, 🚚 Delivery Agent, and 🔐 Super Admin.
+- 🧑‍💻 **Tech Used**: Java, JDBC, MySQL, JSP, Servlets
+
+---
+
+### 🎓 [Student_Course_Registration](https://github.com/JerishRaj/Student_Course_Registration)
+> A Java-based course registration system for Admin, Students & Instructors. Implements DAO design, role-based login.
+- 🧑‍💻 **Tech Used**: Java, JDBC, MySQL
+
+---
+
+### 💾 [Sql-Project](https://github.com/JerishRaj/Sql-Project)
+> SQL queries and structured database projects for academic & personal use.
+- 🧑‍💻 **Tech Used**: MySQL
+
+---
+
+## 📊 GitHub Stats
+![Rixiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIXIYACATHRINE&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIXIYACATHRINE&layout=compact&theme=tokyonight)
+
+---
+
+## 🔁 My Coding Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=RIXIYACATHRINE&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+
